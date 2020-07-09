@@ -2,10 +2,10 @@
 
 
 ## 💬 Ask me about ...
-# [Terraform] (https://www.terraform.io)
-# [AWS] (https://aws.amazon.com)
-# [Linux] (https://www.tldp.org)
-# [Docker] (https://www.docker.com)
+ [Terraform] (https://www.terraform.io)
+ [AWS] (https://aws.amazon.com)
+ [Linux] (https://www.tldp.org)
+ [Docker] (https://www.docker.com)
 
 ⚡ Fun fact: Washes hands and wears a mask in public.
 
